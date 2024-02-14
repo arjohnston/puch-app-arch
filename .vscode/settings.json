@@ -16,7 +16,6 @@
     "**/*.tsbuildinfo": true,
     "**/*.d.ts": true
   },
-  "cSpell.words": [
-    "puch"
-  ]
+  "cSpell.words": ["puch"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
